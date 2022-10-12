@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-set(PROJECT "miniprojekt")
+set(PROJECT "minimalecm")
 
 project(${PROJECT} VERSION 0.0.0 LANGUAGES CXX)
 
